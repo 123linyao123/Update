@@ -2,7 +2,7 @@
 #使用指南/2个频道
 #EXTINF:-1 tvg-logo="https://xn--4gq517l.life/tv/1.png" group-title="使用指南",欢迎页
 https://mirror.ghproxy.com/raw.githubusercontent.com/YiJiaoTV/Update/main/media/1.mp4
-#EXTINF:-1 tvg-logo="https://xn--4gq517l.life/tv/2.png" group-title="使用指南",公告
+#EXTINF:-1 tvg-logo="https://xn--4gq517l.life/tv/2.png" group-title="使用指南",通知与公告
 https://mirror.ghproxy.com/raw.githubusercontent.com/YiJiaoTV/Update/main/media/2.mp4
 #央视/22个频道
 #EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视IPv4",CCTV-1 综合
