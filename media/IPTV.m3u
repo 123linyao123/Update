@@ -1,9 +1,9 @@
 #EXTM3U
 #使用指南/2个频道
-#EXTINF:-1 tvg-logo="https://xn--4gq517l.life/tv/one.png" group-title="使用指南",欢迎页
-https:///xn--4gq517l.life/tv/1.mp4
-#EXTINF:-1 tvg-logo="https://xn--4gq517l.life/tv/two.png" group-title="使用指南",公告
-https:///xn--4gq517l.life/tv/2.mp4
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/YiJiaoTV/Update/main/media/1.png" group-title="使用指南",欢迎页
+https://mirror.ghproxy.com/raw.githubusercontent.com/YiJiaoTV/Update/main/media/1.mp4
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/YiJiaoTV/Update/main/media/2.png" group-title="使用指南",通知与公告
+https://mirror.ghproxy.com/raw.githubusercontent.com/YiJiaoTV/Update/main/media/2.mp4
 #央视/22个频道
 #EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视IPv4",CCTV-1 综合
 http://111.11.98.205:9900/hls/1/index.m3u8
