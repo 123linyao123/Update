@@ -974,7 +974,7 @@ http://118.122.2.29:9999/hls/55/index.m3u8
 #EXTINF:-1 group-title="四川地区",四川康巴卫视
 http://118.122.2.29:9999/hls/39/index.m3u8
 #EXTINF:-1 group-title="四川地区",营山电视台
-http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
+http://tv.drs.ysxtv.cn:8100/channellive/ystv-bak.flv
 #EXTINF:-1 group-title="四川地区",南充综合
 http://118.122.34.134:8888/rtp/239.93.16.98:8582
 #EXTINF:-1 group-title="四川地区",渠县新闻综合
