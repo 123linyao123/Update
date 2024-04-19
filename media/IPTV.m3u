@@ -959,6 +959,32 @@ http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8#http://live.hznet.tv:1
 http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8#http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8?shandd#http://live.hznet.tv:1935/live/live3/500k/tzwj_video.m3u8
 
 #四川/6个频道
+#EXTINF:-1 group-title="四川地区",四川文化旅游
+http://118.122.2.29:9999/hls/52/index.m3u8
+#EXTINF:-1 group-title="四川地区",四川影视文艺
+http://118.122.2.29:9999/hls/53/index.m3u8
+#EXTINF:-1 group-title="四川地区",四川峨眉电影
+http://118.122.2.29:9999/hls/49/index.m3u8
+#EXTINF:-1 group-title="四川地区",四川经济
+http://118.122.2.29:9999/hls/16/index.m3u8
+#EXTINF:-1 group-title="四川地区",四川科教
+http://118.122.2.29:9999/hls/54/index.m3u8
+#EXTINF:-1 group-title="四川地区",四川乡村
+http://118.122.2.29:9999/hls/55/index.m3u8
+#EXTINF:-1 group-title="四川地区",四川康巴卫视
+http://118.122.2.29:9999/hls/39/index.m3u8
+#EXTINF:-1 group-title="四川地区",营山电视台
+http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
+#EXTINF:-1 group-title="四川地区",南充综合
+http://111.9.172.131:9901/tsfile/live/1000_1.m3u8
+#EXTINF:-1 group-title="四川地区",南充科教
+http://111.9.172.131:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="四川地区",南充新闻
+http://tv.drs.ncntv.com.cn:8100/channellive/nczhpd.flv
+#EXTINF:-1 group-title="四川地区",南充公共
+http://tv.drs.ncntv.com.cn:8100/channellive/ncggpd.flv
+#EXTINF:-1 group-title="四川地区",南充科教
+http://tv.drs.ncntv.com.cn:8100/channellive/nckjpd.flv
 #EXTINF:-1 group-title="四川地区",渠县新闻综合
 http://222.208.224.227:81/hls/cfp2p8m3.m3u8
 #EXTINF:-1 group-title="四川地区",仁寿
@@ -966,7 +992,9 @@ https://play.scrstv.com:443/TV/xwzh.m3u8?auth_key=1701335002-0-0-3f433e2a59b5dcf
 #EXTINF:-1 group-title="四川地区",江油
 http://dcpull.sctvcloud.com:80/live/56ce76ab01881000f9f7f6c700000000/playlist.m3u8
 #EXTINF:-1 group-title="四川地区",凉山新闻综合
-http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8
+http://118.122.2.29:9999/hls/51/index.m3u8
+#EXTINF:-1 group-title="四川地区",凉山彝语综合
+http://118.122.2.29:9999/hls/47/index.m3u8
 #EXTINF:-1 group-title="四川地区",凉山语
 http://m3u8.channel.i0834.cn/nmpi-media/channellive/channel115044/playlist.m3u8?zsicd
 #EXTINF:-1 group-title="四川地区",自贡综合
@@ -1005,8 +1033,6 @@ http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
 http://live1.gatv.com.cn:85/live/XWZH.m3u8
 #EXTINF:-1 group-title="四川地区",广安公共频道
 http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
-#EXTINF:-1 group-title="四川地区",凉山彝语频道
-http://m3u8.channel.i0834.cn/nmpi-media/channellive/channel115044/playlist.m3u8
 #EXTINF:-1 group-title="四川地区",攀枝花公共频道
 http://zb.pzhgd.com:9095/live/ggpd.m3u8
 #EXTINF:-1 group-title="四川地区",眉山综合频道
@@ -1127,8 +1153,6 @@ http://liveyc.cmc.yuechirmt.cn:80/live/yctv.m3u8?auth_key=1714112398-0-0-d9a6bd7
 http://dcpull.sctvcloud.com:80/live/561c239c01881000e4bfd3e600000000/playlist.m3u8
 #EXTINF:-1 group-title="四川地区",盐亭综合频道
 http://dcpull.sctvcloud.com:80/live/574a1afd018810007cdf2ae200000000/playlist.m3u8
-#EXTINF:-1 group-title="四川地区",营山电视台
-http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 
 #安徽/6个频道
 #EXTINF:-1 group-title="安徽地区",安徽导视
