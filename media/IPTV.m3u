@@ -976,15 +976,7 @@ http://118.122.2.29:9999/hls/39/index.m3u8
 #EXTINF:-1 group-title="四川地区",营山电视台
 http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 #EXTINF:-1 group-title="四川地区",南充综合
-http://111.9.172.131:9901/tsfile/live/1000_1.m3u8
-#EXTINF:-1 group-title="四川地区",南充科教
-http://111.9.172.131:9901/tsfile/live/1001_1.m3u8
-#EXTINF:-1 group-title="四川地区",南充新闻
-http://tv.drs.ncntv.com.cn:8100/channellive/nczhpd.flv
-#EXTINF:-1 group-title="四川地区",南充公共
-http://tv.drs.ncntv.com.cn:8100/channellive/ncggpd.flv
-#EXTINF:-1 group-title="四川地区",南充科教
-http://tv.drs.ncntv.com.cn:8100/channellive/nckjpd.flv
+http://118.122.34.134:8888/rtp/239.93.16.98:8582
 #EXTINF:-1 group-title="四川地区",渠县新闻综合
 http://222.208.224.227:81/hls/cfp2p8m3.m3u8
 #EXTINF:-1 group-title="四川地区",仁寿
