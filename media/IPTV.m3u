@@ -1760,7 +1760,7 @@ https://iptv.hiper25.com/Pearl/video.m3u8
 #EXTINF:-1 tvg-id="PH11" tvg-name="J2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB3.png" group-title="两岸三地",J2
 http://113.88.66.42:8001/bysid/82
 #EXTINF:-1 tvg-id="PH12" tvg-name="星空卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Startv.png" group-title="两岸三地",星空卫视
-http://222.209.49.12:8088/rtp/239.93.0.156:2193
+http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-id="PH14" tvg-name="RTHK 31" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/RTHK31.png" group-title="两岸三地",RTHK 31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="PH15" tvg-name="RTHK 32" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/RTHK32.png" group-title="两岸三地",RTHK 32
