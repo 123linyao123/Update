@@ -1570,6 +1570,52 @@ http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000326/index.m3u8?
 http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000328/index.m3u8?
 #EXTINF:-1 tvg-id="GANS07" tvg-name="兰州文旅" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/WEIZHIDE.png" group-title="甘肃地区",兰州文旅
 http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000330/index.m3u8?
+#EXTINF:-1 group-title="甘肃地区",白银公共
+http://live.bygd.cn/bygg/sd/live.m3u8
+#EXTINF:-1 group-title="甘肃地区",白银综合
+http://live.bygd.cn/byzh/sd/live.m3u8
+#EXTINF:-1 group-title="甘肃地区",金昌公共
+http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8
+#EXTINF:-1 group-title="甘肃地区",金昌综合
+http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8
+#EXTINF:-1 group-title="甘肃地区",酒泉公共
+http://stream.gsjqtv.com/pd2/sd/live.m3u8
+#EXTINF:-1 group-title="甘肃地区",酒泉综合
+http://stream.gsjqtv.com/pd1/sd/live.m3u8
+#EXTINF:-1 group-title="甘肃地区",定西公共
+https://play.kankanlive.com/live/1645680054929933.m3u8?zgand
+#EXTINF:-1 group-title="甘肃地区",定西综合
+https://play.kankanlive.com/live/1645679947087932.m3u8?zgand
+#EXTINF:-1 group-title="甘肃地区",景泰综合
+https://play.kankanlive.com/live/1624439143745981.m3u8?zgand
+#EXTINF:-1 group-title="甘肃地区",古浪综合
+https://play.kankanlive.com/live/1619400940821967.m3u8
+#EXTINF:-1 group-title="甘肃地区",通渭综合
+https://play.kankanlive.com/live/1629944062210970.m3u8?zgand
+#EXTINF:-1 group-title="甘肃地区",陇西电视台
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/longxidst/51/20191206/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="甘肃地区",漳县综合
+http://hlsbkmgsplive.miguvideo.com/wd_r4/cnr/zhangxianzonghe/350/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="甘肃地区",岷县综合
+http://play.kankanlive.com/live/1614311581479927.m3u8?zgand
+#EXTINF:-1 group-title="甘肃地区",临洮综合
+https://play.kankanlive.com/live/1638428318510977.m3u8?zgand
+#EXTINF:-1 group-title="甘肃地区",西和综合
+https://play.kankanlive.com/live/1626051451895935.m3u8
+#EXTINF:-1 group-title="甘肃地区",礼县综合
+https://play.kankanlive.com/live/1621416463200961.m3u8
+#EXTINF:-1 group-title="甘肃地区",舟曲新闻
+http://pili-live-hls.hfmt.net/gntv/zqtv.m3u8?zgand
+#EXTINF:-1 group-title="甘肃地区",卓尼综合
+http://pili-live-hls.hfmt.net/gntv/zntv.m3u8?zgand
+#EXTINF:-1 group-title="甘肃地区",临潭综合
+http://pili-live-hls.hfmt.net/gntv/lttv.m3u8?zgand
+#EXTINF:-1 group-title="甘肃地区",夏河综合
+http://pili-live-hls.hfmt.net/gntv/xhtv.m3u8?zgand
+#EXTINF:-1 group-title="甘肃地区",碌曲综合
+http://pili-live-hls.hfmt.net/gntv/lqtv.m3u8?zgand
+#EXTINF:-1 group-title="甘肃地区",玛曲综合
+http://pili-live-hls.hfmt.net/gntv/mqtv.m3u8?gansu
 
 #黑龙江/6个频道
 #EXTINF:-1 tvg-id="HLJ01" tvg-name="黑龙江新闻法治" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang1.png" group-title="黑龙江地区",黑龙江新闻法治
