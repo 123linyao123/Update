@@ -6,41 +6,41 @@ https://mirror.ghproxy.com/raw.githubusercontent.com/YiJiaoTV/Update/main/media/
 https://mirror.ghproxy.com/raw.githubusercontent.com/YiJiaoTV/Update/main/media/2.mp4
 #央视/22个频道
 #EXTINF:-1 tvg-id="A101" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视IPv4",CCTV-1 综合
-http://111.172.10.13:8887/rtp/239.254.96.96:8550
+http://61.163.181.78:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="A102" tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV2.png" group-title="央视IPv4",CCTV-2 财经
-http://111.172.10.13:8887/rtp/239.69.1.102:10250
+http://61.163.181.78:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="A103" tvg-name="CCTV3" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV3.png" group-title="央视IPv4",CCTV-3 综艺
-http://111.172.10.13:8887/rtp/239.69.1.122:10370
+http://61.163.181.78:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="A104" tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4.png" group-title="央视IPv4",CCTV-4 中文国际
-http://111.172.10.13:8887/rtp/239.69.1.138:10466
+http://61.163.181.78:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="A105" tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5.png" group-title="央视IPv4",CCTV-5 体育
-http://111.172.10.13:8887/rtp/239.69.1.123:10376
+http://58.220.219.14:9901/tsfile/live/0005_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="A106" tvg-name="CCTV5+" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5plus.png" group-title="央视IPv4",CCTV-5+ 体育赛事
-http://111.172.10.13:8887/rtp/239.254.96.234:9484
+http://61.163.181.78:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="A107" tvg-name="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV6.png" group-title="央视IPv4",CCTV-6 电影
-http://111.172.10.13:8887/rtp/239.69.1.124:10382
+http://61.163.181.78:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="A108" tvg-name="CCTV7" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV7.png" group-title="央视IPv4",CCTV-7 国防军事
-http://111.172.10.13:8887/rtp/239.69.1.103:10256
+http://61.163.181.78:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="A109" tvg-name="CCTV8" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV8.png" group-title="央视IPv4",CCTV-8 电视剧
-http://111.172.10.13:8887/rtp/239.69.1.125:10388
+http://61.163.181.78:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="A110" tvg-name="CCTV9" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV9.png" group-title="央视IPv4",CCTV-9 纪录
-http://111.172.10.13:8887/rtp/239.69.1.104:10262
+http://61.163.181.78:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="A111" tvg-name="CCTV10" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV10.png" group-title="央视IPv4",CCTV-10 科教
-http://111.172.10.13:8887/rtp/239.69.1.105:10268
+http://111.11.98.205:9900/hls/10/index.m3u8
 #EXTINF:-1 tvg-id="A112" tvg-name="CCTV11" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV11.png" group-title="央视IPv4",CCTV-11 戏曲
-http://111.172.10.13:8887/rtp/239.69.1.154:10560
+http://61.163.181.78:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="A113" tvg-name="CCTV12" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV12.png" group-title="央视IPv4",CCTV-12 社会与法
-http://111.172.10.13:8887/rtp/239.69.1.106:10274
+http://61.163.181.78:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="A114" tvg-name="CCTV13" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV13.png" group-title="央视IPv4",CCTV-13 新闻
-http://111.172.10.13:8887/rtp/239.254.96.161:9040
+http://61.163.181.78:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="A115" tvg-name="CCTV14" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV14.png" group-title="央视IPv4",CCTV-14 少儿
-http://111.172.10.13:8887/rtp/239.69.1.107:10280
+http://61.163.181.78:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="A16" tvg-name="CCTV15" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV15.png" group-title="央视IPv4",CCTV-15 音乐
-http://111.172.10.13:8887/rtp/239.69.1.155:10566
+http://61.163.181.78:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="A117" tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV16.png" group-title="央视IPv4",CCTV-16 奥林匹克
-http://111.172.10.13:8887/rtp/239.69.1.247:11124
+http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel116/index.m3u8
 #EXTINF:-1 tvg-id="A118" tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV17.png" group-title="央视IPv4",CCTV-17 农业农村
-http://111.172.10.13:8887/rtp/239.69.1.152:10548
+http://111.11.98.205:9900/hls/17/index.m3u8
 #EXTINF:-1 tvg-id="A119" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="央视IPv4",CCTV-4K 超高清
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="A120" tvg-name="CCTV8K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV8K.png" group-title="央视IPv4",CCTV-8K 超高清
